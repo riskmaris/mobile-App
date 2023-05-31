@@ -138,7 +138,7 @@ I would like to thank Microverse with all the resources they provided.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE.txt) licensed<a name="readme-top"></a>
+This project is [MIT](./MIT.md) licensed<a name="readme-top"></a>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
