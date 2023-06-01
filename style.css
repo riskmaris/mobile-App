@@ -66,7 +66,6 @@ p {
   background-size: cover;
 }
 
-
 .section-1 {
   margin-top: 40px;
   padding: 2em;
@@ -141,23 +140,7 @@ h4 {
   background: transparent;
   border: 1px solid #396df2;
   border-radius: 8px;
-} 
-
-
-
-/* .beg-btn:hover {
-  background-color: #6070ff;
-  color: white;
-} */
-
-.connect {
-  color: #6070ff;
 }
-
-/* .connect:hover {
-  background-color: #6070ff;
-  color: white;
-} */
 
 .resume {
   padding: 7px 13px;
