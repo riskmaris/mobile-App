@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+.nav-bar {
+  width: 96%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 50px;
+  padding-bottom: 30px;
+  color: #a3acff;
+  font-size: 25px;
+  font-weight: 510;
+}
+
+.connect {
+  color: #8c98ff;
+  padding: 10px 0;
+}
+
+ul {
+  display: flex;
+  gap: 4%;
+  color: #505f79;
+  list-style-type: none;
+}
+
+ul li a {
+  color: #505f79;
+}
+
+.parent {
+  padding: 20px;
+  height: 100%;
+}
+
+.name {
+  line-break: 10px;
+  font-size: 50px;
+  color: #172b4d;
+  position: relative;
+  padding-top: 100px;
+}
+
+p {
+  padding: 20px 0;
+  color: #52607a;
+  font-size: 20px;
+  padding-top: 40px;
+}
+
+.ang-logo {
+  width: 15px;
+}
+
+.bg-img {
+  background-image: url("./images/white.png");
+  background-image: url("./images/header-shapes\ mobile.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
