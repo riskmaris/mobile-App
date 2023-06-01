@@ -22,7 +22,7 @@
 - [📝 License](#license)
 
 
-# 📖 [Mobile App] <a name=Mobile App></a>
+# 📖 [Mobile App Potfolio] <a name=Mobile App Potfolio></a>
 
 
 **[Mobile App]** is a simple project built with html and css showing mobile version.
@@ -52,6 +52,7 @@
 - Added index.html file
 - Added style.css file
 - Added linters
+- Added Figma images
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -119,6 +120,7 @@ Open index.html using live server extension
 - Add styling
 - Add javascript
 - Add desktop version
+- Add animations and transitions.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
