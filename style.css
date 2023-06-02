@@ -20,6 +20,7 @@
 }
 
 .connect {
+  font-size: 18px;
   color: #8c98ff;
   padding: 10px 0;
 }
@@ -67,6 +68,7 @@ p {
 }
 
 .section-1 {
+  display: grid;
   margin-top: 40px;
   padding: 2em;
   background: #f7f7f9;
@@ -79,22 +81,28 @@ p {
   margin-top: 80px;
   background: #fff;
   padding: 1rem;
-  border: 2px solid #e1e3e8;
-  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+  border: 1.5px solid #e1e3e8;
   border-radius: 1rem;
   height: auto;
   width: 100%;
 }
 
-h1 {
+.headings {
+  font-size: 30px;
+  color: #172b4d;
+  font-weight: 600;
+}
+
+p {
   font-size: 30px;
   color: #172b4d;
 }
 
 .details {
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
   align-items: baseline;
-  gap: 5%;
+  gap: 10%;
   color: #abd4c0;
 }
 
@@ -114,18 +122,17 @@ h4 {
 
 .languages {
   display: flex;
-  gap: 7px;
+  gap: 2%;
   list-style-type: none;
-  color: #8792ff;
 }
 
 .languages li {
   background-color: #ebebff;
   border-radius: 8px;
-  padding: 5px 10px;
+  padding: 5px 12px;
   margin-right: 6px;
-  font-size: 13px;
-  color: #9da6ff;
+  font-size: 16px;
+  color: #6070ff;
 }
 
 .beg-btn {
@@ -136,26 +143,42 @@ h4 {
   font-size: 17px;
   padding: 12px 4px;
   line-height: 24px;
-  width: 30%;
+  width: 45%;
   background: transparent;
   border: 1px solid #396df2;
   border-radius: 8px;
 }
 
+.beg-btn:hover {
+background-color: #6070ff;
+color: #fff;
+cursor: pointer;
+}
+
+.beg-btn:active {
+  background-color: #2230d2;
+  color: #fff;
+}
+
 .resume {
   padding: 7px 13px;
   font-size: 17px;
+  font-weight: 500;
   margin-top: 20px;
   background-color: #fff;
   border-radius: 10px;
   border: 2px solid #cfd4ff;
-  color: #7fa1f7;
+  color: #6070ff;
 }
 
 .me {
+  margin-top: 20%;
   color: #182b4e;
   position: relative;
   top: 30px;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 50px;
 }
 
 .dot {
