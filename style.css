@@ -51,8 +51,8 @@ ul li a {
 
 p {
   padding: 20px 0;
-  color: #172b4d;
-  font-size: 20px;
+  color: #344563;
+  font-size: 16px;
   padding-top: 40px;
 }
 
@@ -78,6 +78,7 @@ p {
 }
 
 .first-card {
+  display: grid;
   margin-top: 80px;
   background: #fff;
   padding: 1rem;
@@ -88,16 +89,18 @@ p {
 }
 
 .headings {
-  font-size: 30px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  font-size: 32px;
   color: #172b4d;
-  font-weight: 600;
+  font-weight: 700;
+  line-height: 44px;
 }
 
 .details {
-  display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  display: flex;
   align-items: baseline;
-  gap: 10%;
+  gap: 5%;
   color: #abd4c0;
 }
 
@@ -106,13 +109,15 @@ p {
 }
 
 h3 {
-  color: #7d899c;
+  color: #344563;
   font-size: 15px;
+  font-weight: 600;
 }
 
 h4 {
-  color: #848fa2;
+  color: #7a869a;
   font-size: 13px;
+  font-weight: 600;
 }
 
 .languages {
@@ -168,10 +173,8 @@ h4 {
 
 .me {
   margin-top: 20%;
-  color: #182b4e;
-  position: relative;
-  top: 30px;
-  font-size: 40px;
+  color: #172b4d;
+  font-size: 25px;
   font-weight: 700;
   line-height: 50px;
 }
