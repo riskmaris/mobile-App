@@ -333,10 +333,7 @@ h4 {
   line-height: 24px;
 }
 
-.in-touch:hover {
-  background-color: #fff;
-  cursor: pointer;
-}
+/*  */
 
 .labels .in-touch {
   padding: 15px 20px;
