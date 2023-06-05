@@ -254,7 +254,9 @@ h4 {
   background-image: url("./images/header-shapes\ mobile.png");
   background-repeat: no-repeat;
   background-size: cover;
+
   /* background-image: url(images/contact\ form\ shapes-mobile.svg); */
+
   /* background-image: url(images/header-shapes\ mobile.png);
   background-position: cover;
   background-repeat: no-repeat; */
@@ -321,13 +323,6 @@ h4 {
   outline: none;
 }
 
-.labels .in-touch {
-  padding: 15px 20px;
-  align-self: flex-start;
-  border-radius: 7px;
-  border: none;
-}
-
 .in-touch {
   cursor: pointer;
   color: #4777f2;
@@ -336,6 +331,13 @@ h4 {
   font-size: 17px;
   padding: 12px 4px;
   line-height: 24px;
+}
+
+.labels .in-touch {
+  padding: 15px 20px;
+  align-self: flex-start;
+  border-radius: 7px;
+  border: none;
 }
 
 ::placeholder {
