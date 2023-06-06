@@ -99,7 +99,7 @@ Open index.html using live server extension
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contributions:
-- Please feel free to contribute to this website because am are open for new changes and  skills that can make it even better.
+- Please feel free to contribute to this website because we are open for new changes and  skills that can make it even better.
 
 
 ## 👥 Author <a name="author"></a>
@@ -109,6 +109,7 @@ Open index.html using live server extension
    
 
 - GitHub: [riskmaris](https://github.com/riskmaris)
+-GitHub:  [saveryIV](https://github.com/SaveryIV)
 
 
 
@@ -132,7 +133,7 @@ If you like this project please give it a star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse with all the resources they provided.
+We would like to thank Microverse with all the resources they provided.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
