@@ -22,10 +22,10 @@
 - [📝 License](#license)
 
 
-# 📖 [Mobile App Potfolio] <a name=Mobile App Potfolio></a>
+# 📖 [Desktop Version] <a name=Desktop-Version></a>
 
 
-**[Mobile App]** is a simple project built with html and css showing mobile version.
+**[Desktop Version]** is a simple project built with html and css showing desktop version.
 
 ## 🛠 Built With
 1. Html
@@ -99,7 +99,7 @@ Open index.html using live server extension
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contributions:
-- Please feel free to contribute to this website because we are open for new changes and  skills that can make it even better.
+- Please feel free to contribute to this website because am open for new changes and  skills that can make it even better.
 
 
 ## 👥 Author <a name="author"></a>
@@ -109,8 +109,6 @@ Open index.html using live server extension
    
 
 - GitHub: [riskmaris](https://github.com/riskmaris)
--GitHub:  [saveryIV](https://github.com/SaveryIV)
-
 
 
 
@@ -120,7 +118,6 @@ Open index.html using live server extension
 
 - Add styling
 - Add javascript
-- Add desktop version
 - Add animations and transitions.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -133,7 +130,7 @@ If you like this project please give it a star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-We would like to thank Microverse with all the resources they provided.
+I would like to thank Microverse with all the resources they provided.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
