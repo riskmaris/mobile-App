@@ -8,13 +8,13 @@
 }
 
 body {
+  width: 100%;
   background-color: #e5e5e5;
   padding: 0;
   margin: 0;
 }
 
 .body-section {
-  width: 386px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -183,6 +183,11 @@ h4 {
   border: 2px solid #cfd4ff;
   color: #628cf5;
   align-self: start;
+}
+
+.resume:hover {
+  background-color: #6070ff;
+  color: white;
 }
 
 .about-section {
@@ -458,7 +463,8 @@ hr {
 
   /* start second section */
   .bg-img {
-    height: 88vh;
+    width: 100vw;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -467,7 +473,7 @@ hr {
     background-size: contain;
     margin-bottom: 0;
     background-color: #fff;
-    border-bottom-left-radius: 80px;
+    border-bottom-left-radius: 9.4rem;
   }
 
   .hero-container {
@@ -519,6 +525,8 @@ hr {
 
   .details-container .heading {
     margin-top: 20px;
+    font-size: 40px;
+    font-weight: 700;
   }
 
   .img-container {
@@ -563,12 +571,22 @@ hr {
     border-top-right-radius: 80px;
   }
 
+  .me {
+    font-size: 40px;
+    font-weight: 700;
+    color: #182b4e;
+    position: relative;
+    top: 30px;
+  }
+
   .about-section {
-    width: 50%;
+    width: 60%;
+    height: 100%;
   }
 
   .skill-section {
-    width: 50%;
+    width: 40%;
+    height: 100%;
   }
 
   .ellipse-container {
@@ -587,6 +605,17 @@ hr {
   }
 
   /* contact form section */
+  .contact {
+    color: #fff;
+    font-size: 40px;
+    font-weight: 700;
+  }
+
+  .para {
+    font-size: 1.25rem;
+    color: #ebebff;
+  }
+
   .about-contact {
     width: 100%;
     margin-top: 0;
