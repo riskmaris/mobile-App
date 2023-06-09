@@ -509,16 +509,6 @@ hr {
     animation: title 3s linear;
   }
 
-  @keyframes title {
-    0% { top: -1000px; }
-    100% { top: 0; }
-  }
-
-  @keyframes para {
-    0% { right: -1000px; }
-    100% { right: 0; }
-  }
-
   .connect {
     display: inline;
     position: relative;
