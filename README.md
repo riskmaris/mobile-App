@@ -22,10 +22,10 @@
 - [📝 License](#license)
 
 
-# 📖 [Desktop Version] <a name=Desktop-Version></a>
+# 📖 [Transitions] <a name=Transitions></a>
 
 
-**[Desktop Version]** is a simple project built with html and css showing desktop version.
+**[Transitions]** is a simple project built with html and css showing mobile and desktop version with tarnsitions and annimations.
 
 ## 🛠 Built With
 1. Html
@@ -51,13 +51,14 @@
 
 - Added index.html file
 - Added style.css file
+- Added traansitions and annimations
 - Added linters
 - Added Figma images
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 [Live Demo] Loading...
+## 🚀 [Live Demo]  https://riskmaris.github.io/mobile-App/
 
 <!-- GETTING STARTED -->
 
@@ -118,7 +119,6 @@ Open index.html using live server extension
 
 - Add styling
 - Add javascript
-- Add animations and transitions.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
