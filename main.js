@@ -35,7 +35,7 @@ const cards = [
     image: './images/Snapshoot Portfolio (2).png',
     heading: 'Multi-Post Stories',
     paragraph:
-      'Experiemental content creation feature that allows users to add to an existing story over the course of a day without spamming their friends',
+      'Experiemental content creation feature which allows users to add to an existing story over the course of a day without spamming their friends',
     application: 'FACEBOOK',
     stack: 'Full Stack Dev',
     year: '2015',
