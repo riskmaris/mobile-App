@@ -22,10 +22,10 @@
 - [📝 License](#license)
 
 
-# 📖 [Transitions] <a name=Transitions></a>
+# 📖 [Popup-window] <a name=popup-window></a>
 
 
-**[Transitions]** is a simple project built with html and css showing mobile and desktop version with tarnsitions and annimations.
+**[popup-window]** is a simple project built with html and css showing mobile and desktop version with a popup window.
 
 ## 🛠 Built With
 1. Html
@@ -110,6 +110,7 @@ Open index.html using live server extension
    
 
 - GitHub: [riskmaris](https://github.com/riskmaris)
+- GitHub: [Porkalaikarthika](https://github.com/Porkalaikarthika)
 
 
 
