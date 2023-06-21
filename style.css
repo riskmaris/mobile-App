@@ -510,6 +510,7 @@ hr {
 .submit-btn {
   display: flex;
   gap: 3%;
+
   /* justify-content: space-between; */
 }
 
