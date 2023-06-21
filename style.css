@@ -14,7 +14,6 @@ body {
 }
 
 .body-section {
-  width: 386px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -481,6 +480,7 @@ hr {
 
 .pop-up-div-container-img img {
   height: 100%;
+  width: 100%;
   margin: auto;
 }
 
@@ -489,6 +489,7 @@ hr {
   align-items: baseline;
   color: #848fa2;
   margin-bottom: 20px;
+  gap: 3%;
 }
 
 .pop-up-div-container-details p {
@@ -508,7 +509,16 @@ hr {
 
 .submit-btn {
   display: flex;
-  justify-content: space-between;
+  gap: 3%;
+  /* justify-content: space-between; */
+}
+
+@media only screen and (min-width: 375px) {
+  .pop-up-div-container-img img {
+    height: 100%;
+    width: 50%;
+    margin: auto;
+  }
 }
 
 @media only screen and (min-width: 768px) {
@@ -527,6 +537,7 @@ hr {
 
   .pop-up-div-container {
     height: 100%;
+    width: 100%;
   }
 
   .pop-up-div-container-img {
@@ -537,7 +548,7 @@ hr {
   }
 
   .pop-up-div-container-img img {
-    /* width: 100%; */
+    width: 50%;
     margin: 0 19%;
     height: 100%;
   }
@@ -687,6 +698,16 @@ hr {
   @keyframes connect {
     0% { bottom: -1000px; }
     100% { bottom: 0; }
+  }
+
+  .beg-btn {
+    padding: 7px;
+    font-size: 17px;
+    margin-top: 20px;
+    color: #6070ff;
+    background-color: #fff;
+    border-radius: 10px;
+    border: 2px solid #cfd4ff;
   }
 
   .beg-btn:hover {
