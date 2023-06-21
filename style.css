@@ -826,6 +826,7 @@ hr {
     display: none;
   }
 }
+
 /* @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap");
 
 * {
@@ -1308,7 +1309,8 @@ hr {
   }
 
   /* start second section */
-  /* .bg-img {
+
+/* .bg-img {
     width: 100vw;
     height: 100vh;
     display: flex;
@@ -1358,8 +1360,9 @@ hr {
     100% { bottom: 0; }
   } */
 
-  /* 3rd section */
-  /* .section-1 {
+/* 3rd section */
+
+/* .section-1 {
     width: 100%;
     display: grid;
     align-items: center;
@@ -1438,9 +1441,9 @@ hr {
     order: 2;
   } */
 
-  /* 4th section */
+/* 4th section */
 
-  /* .about-myself {
+/* .about-myself {
     width: 100%;
     display: flex;
     padding: 100px;
@@ -1481,8 +1484,9 @@ hr {
     padding: 0;
   } */
 
-  /* contact form section */
-  /* .contact {
+/* contact form section */
+
+/* .contact {
     color: #fff;
     font-size: 40px;
     font-weight: 700;
