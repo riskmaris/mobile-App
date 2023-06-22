@@ -644,6 +644,10 @@ hr {
     font-size: 20px;
   }
 
+  .popup-list{
+    display: block;
+  }
+
   /* start second section */
   .bg-img {
     height: 88vh;

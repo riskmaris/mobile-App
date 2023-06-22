@@ -1,6 +1,7 @@
 const menuBar = document.querySelector('#menu-bar');
 const xIcon = document.querySelector('#x-icon');
 const popupList = document.querySelector('.popup-list');
+const body = document.getElementsByTagName('body')[0];
 
 xIcon.style.display = 'none';
 popupList.style.display = 'none';
@@ -116,6 +117,7 @@ const popUpDiv = (element) => {
 };
 function closePopup() {
   detailsForPopUpDiv.style.display = 'none';
+  body.style = '';
 }
 
 cards.forEach((element) => {
@@ -160,6 +162,7 @@ cards.forEach((element) => {
 
 function popupOpen() {
   detailsForPopUpDiv.style.display = 'block';
+  body.style = 'overflow: hidden;';
 }
 
 document.querySelector('.beg-btn').addEventListener('click', popupOpen);
